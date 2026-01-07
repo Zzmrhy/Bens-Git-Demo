@@ -1,3 +1,3 @@
 print("Git/Github Demo")
 
-print("THis is a great day")
+print("This is a great day")
